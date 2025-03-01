@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: 17.0.5
+Main-Class: my.yevhen_khyzha.sudoku.solver.SudokuSolverLauncher

@@ -1,0 +1,46 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.iml
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+mods/
+out-standalone/
+sudoku-solver-algorithm-api/my/
+sudoku-solver-algorithm-api/module-info.class
+sudoku-solver-algorithm-depth-first-search/my/
+sudoku-solver-algorithm-depth-first-search/module-info.class
+sudoku-solver-algorithm-breadth-first-search/my/
+sudoku-solver-algorithm-breadth-first-search/module-info.class
+sudoku-solver-algorithm-resolver/my/
+sudoku-solver-algorithm-resolver/module-info.class
+sudoku-solver-algorithm-unambiguous/my/
+sudoku-solver-algorithm-unambiguous/module-info.class
+sudoku-solver-launcher/my/
+sudoku-solver-launcher/module-info.class
